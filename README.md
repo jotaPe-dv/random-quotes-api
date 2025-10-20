@@ -59,7 +59,7 @@ Invoke-WebRequest http://localhost:3000/quotes/random
 Invoke-WebRequest http://localhost:3000/quotes/5
 ```
 
-## 🐝 Docker Swarm
+## Docker Swarm
 
 ### Inicializar Swarm
 
