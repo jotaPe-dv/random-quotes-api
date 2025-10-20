@@ -152,7 +152,6 @@ npm start
 - **Docker Swarm** 
 
 ## Autor
-
 Juan Pablo Rua - [jotapedv](https://hub.docker.com/u/jotapedv)
 
 
